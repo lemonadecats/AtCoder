@@ -5,4 +5,4 @@
 - bin/generator.sh
   - ```bash generator.sh DIRNAME```のようにすると現在いるディレクトリにDIRNAMEというディレクトリを作成し、中にA.cpp B.cpp C.cpp D.cpp E.cpp F.cppが作られる。内容はbin/templateの内容がコピーされる。
   - 使用例
-    - ```cd ABC/ && bash ../bin/generator.sh ABC177```
+    - ```cd ABC && bash ../bin/generator.sh ABC177```
